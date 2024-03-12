@@ -1,4 +1,4 @@
-""" A file automatically created in each Django project. """
+#""" A file automatically created in each Django project. """
 #!/usr/bin/env python
 import os
 import sys
